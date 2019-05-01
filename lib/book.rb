@@ -7,4 +7,3 @@ class Book
 
   def p
 end
-
